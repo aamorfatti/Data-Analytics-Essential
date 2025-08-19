@@ -1,0 +1,27 @@
+Pada pertemuan pertama, materi yang dibahas berfokus pada pengenalan dasar mengenai konsep data, piramida DIKW, definisi data analytics dan proses analisis data.
+
+Menurut Oxford Languages, data is “Facts and statistics collected together for reference or analysis.” artinya, data adalah sekumpulan fakta dan statistik yang dikumpulkan untuk tujuan referensi atau analisis. Pada tahap awal, data masih bersifat mentah dan belum memiliki makna. Data baru memperoleh nilai ketika diolah menjadi informasi yang relevan.
+
+Transformasi dari data mentah hingga menjadi dasar pengambilan keputusan dijelaskan melalui piramida DIKW (Data – Information – Knowledge – Wisdom).
+
+Data adalah fakta mentah.
+
+Informasi merupakan data yang sudah diolah sehingga memberikan konteks.
+
+Pengetahuan adalah informasi yang udah dipahami dan siap dipakai
+
+Kebijaksanaan adalah kemampuan mengambil keputusan tepat berdasarkan pengetahuan yang dimiliki.
+
+Sementara itu, data analytics menurut dictionary.com adalah proses menganalisis data, umumnya dalam skala besar, dengan memanfaatkan matematika, statistik, serta perangkat lunak komputer.
+
+Jenis analisis data terbagi ke dalam empat kategori utama diurutkan berdasarkan tingkat kompleksitasnya:
+
+Descriptive Analysis: menjelaskan peristiwa yang sudah terjadi.
+
+Diagnostic Analysis: menggali penyebab atau alasan di balik suatu peristiwa.
+
+Predictive Analysis: memanfaatkan data historis untuk memprediksi kejadian di masa depan.
+
+Prescriptive Analysis: memberikan rekomendasi langkah terbaik yang dapat diambil berdasarkan hasil prediksi.
+
+untuk saat ini, hanya mengandalkan descriptive analysis itu ga cukup. Untuk dapat bersaing secara proaktif, kita perlu manfaatin predictive dan prescriptive analysis agar pengambilan keputusan benar-benar berbasis data dan lebih strategis.
