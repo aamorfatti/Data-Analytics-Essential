@@ -24,6 +24,6 @@ disini, karena yang paling mudah untuk dikelompokan adalah survived dan pclass, 
 sedangkan, age berada pada sumbu y karena bersifat numerikal.
 
 hasil akhir dari visualisasi seperti ini:
-![grafik akhir](<img width="996" height="701" alt="image" src="https://github.com/user-attachments/assets/acb6fb86-2f3b-4d68-a80f-09a4107bb1c9" />)
+<img width="996" height="701" alt="image" src="https://github.com/user-attachments/assets/acb6fb86-2f3b-4d68-a80f-09a4107bb1c9" />
 
 
