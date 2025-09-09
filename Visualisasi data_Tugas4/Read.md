@@ -7,9 +7,9 @@ sebelum menentukan variable yang akan divisualisasikan, langkah pertama adalah m
 setelah dilakukan visualisasi terhadap hubungan antar variable menggunakan heatmap, 
 terlihat bahwa ada 3 diantara 6 variable yang memiliki hubungan yang cukup kuat.
 
-- 3 variable, 1 sebagai variable independen dan 2 sebagai variable dependen.
-  - pclass (independen): karena berdasarkan hipotesis, mempengaruhi survived atau tidaknya dan juga umur yang mendudukinya (makin tua makin kecil pclassnya)
-  - age (dependen): dikatakan dependen karena secara logis, penumpang kelas 1 mayoritas adalah orang dengan usia yang rata-ratanya lebih tinggi daripada kelas lain
+- 3 variable, 1 sebagai variable dependen dan 2 sebagai variable independen.
+  - pclass (independen): karena berdasarkan hipotesis, mempengaruhi survived atau tidaknya 
+  - age (independen): dikatakan independen karena mempengaruhi skala prioritas dalam penyelamatan (wanita dan anak2) atau kemampuan fisik
   - survive (dependen): sangat dipengaruhi oleh kelas dari kapal, semakin kecil kelasnya, semakin mungkin ia selamat
 
 penempatan itu dapat terlihat dari gambar grafik ini:
@@ -26,4 +26,7 @@ sedangkan, age berada pada sumbu y karena bersifat numerikal.
 hasil akhir dari visualisasi seperti ini:
 <img width="996" height="701" alt="image" src="https://github.com/user-attachments/assets/acb6fb86-2f3b-4d68-a80f-09a4107bb1c9" />
 
+## kesimpulan
+dari grafik bisa disimpulkan bahwa penumpang pada kelas satu memiliki **jumlah penumpang yang selamat tertinggi**,
+penumpang kelas satu memiliki **rentang usia paling luas untuk selamat**
 
